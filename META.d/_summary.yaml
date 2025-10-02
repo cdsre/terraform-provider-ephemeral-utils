@@ -1,0 +1,10 @@
+---
+schema: 1.1
+
+partition: tf-ecosystem
+
+summary:
+  owner: cdsre
+  description: |
+    A terraform provider that can be used to allow storing of parameters from ephemeral resources that may not actually be sensitive
+  visibility: public
